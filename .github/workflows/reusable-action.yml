@@ -8,4 +8,4 @@ jobs:
       - name: Say hello
         uses: jpacheco87/hello-world-docker-action@v1
         with:
-          who-to-greet: '@octocat'
+          who-to-greet: '@jpacheco87'
