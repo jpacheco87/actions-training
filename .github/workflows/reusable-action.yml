@@ -6,6 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Say hello
-        uses: jpacheco87/hello-world-docker-action@v1
+        uses: jpacheco87/hello-world-docker-action@v2
         with:
           who-to-greet: '@jpacheco87'
